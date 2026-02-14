@@ -9,9 +9,12 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Realtime-green?style=for-the-badge&logo=supabase)](https://supabase.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-[Live Demo](https://your-app.vercel.app) • [Report Bug](https://github.com/yourusername/smart-bookmark-app/issues) • [Request Feature](https://github.com/yourusername/smart-bookmark-app/issues)
+[Live Demo]<img width="1704" height="748" alt="image" src="https://github.com/user-attachments/assets/5e94a53f-6c7d-40c4-bdca-aa0252d7c620" />
+) • [Report Bug](https://github.com/yourusername/smart-bookmark-app/issues) • [Request Feature]<img width="1786" height="662" alt="image" src="https://github.com/user-attachments/assets/f5636f45-161d-4acf-8d78-c61dcc05406d" />
 
-![Smart Bookmarks Demo](https://via.placeholder.com/800x400/1a1a2e/eee?text=Smart+Bookmarks+Demo)
+
+![Smart Bookmarks Demo]![Uploading image.png…]()
+
 
 </div>
 
